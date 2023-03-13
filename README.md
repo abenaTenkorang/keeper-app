@@ -52,10 +52,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Add tasks to the list**
+- **Mapping through list**
 - **Remove tasks from the list**
-- **Mark completed**
-- **Edit tasks**
+- **Edit list**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
